@@ -1,10 +1,16 @@
 <header>
 # Kávoval
 
-![logo](./src/logo.png)
+![](src/logo.png)
 
 #### Tomáš Dostál, EMP cvičení C301
-#### 14.5.2021
+#### 21.5.2021
+<br /> 
+<br /> 
+<br /> 
+<br />
+<br />
+<br />
 </header>
 <main>
 
@@ -84,8 +90,8 @@ Konkurence bude záviset na místě, kde se pohyblivá kavárna zrovna bude nach
 
 [mapa Dejvice](./img/dejvice_ocislovane.png)
 
-| Číslo na mapě | Název provozovny | Typ provozovny | Je to reálná konkurence? | Poznámka           |
-|---------------|------------------|----------------|--------------------|--------------------| 
+| Číslo na mapě | Název provozovny | Typ provozovny | Je to reálná konkurence? | Poznámka                                     |
+|---------------|------------------|----------------|--------------------|----------------------------------------------------------------| 
 | 1             | FEL Caffé        | Bufet          | Spíše ano          | Bližší informace se mi na webu nepodařilo nalézt |
 | 2             | Cafe Prostoru_   | Pivnice-kavárna | Ano        | Sídlí přímo v budově NTK, což z ní dělá velkou konkurenci (studenti to tam mají z NTK blíž). | 
 | 3             | Kantor Coffee    | Kavárna        | Ano                | V budově fakulty Stavební, cena kávy (co pamatuji) OK, příjemné prostředí. Web mimo provoz, nemohu srovnat dle aktuálního ceníku | 
@@ -145,7 +151,7 @@ Kromě tohoto jsem se rozhodl srovnat projekt i s obdobným z mého rodného mě
 ## MámaMeleKafe (Opava)  
 
 ![Máma Mele kafe stánek](src/mama_mele_kafe.jpeg) 
-> [Zdroj](https://www.firmy.cz/detail/12899142-mama-mele-kafe-opava.html) 
+[Zdroj](https://www.firmy.cz/detail/12899142-mama-mele-kafe-opava.html) 
 
 - otevírací doba 7-18h, víkendy 10-17h
 - Mají zázemí kamenné prodejny, kousek od místa, kde prodávají kávu s kolem
@@ -169,8 +175,8 @@ Kromě tohoto jsem se rozhodl srovnat projekt i s obdobným z mého rodného mě
 Je zde nádherný výhled na Prahu a v nejvližším okolí není výrazná konkurence. Optimální by bylo mít nějaká lehátka a nechat zákazníky si na nich posedět. Je tam nicméně dost laviček. 
 [mapa Dejvice](./img/letna_ocislovane.png)
 
-| Číslo na mapě | Název provozovny | Typ provozovny | Je to reálná konkurence? | Poznámka           |
-|---------------|------------------|----------------|--------------------|--------------------| 
+| Číslo na mapě | Název provozovny | Typ provozovny | Je to reálná konkurence? | Poznámka                                 |
+|---------------|------------------|----------------|--------------------|-----------------------------------------------------------------| 
 | 1             | Cafe pointa      | Bufet          | Spíše ano          | Spustředí se spíše na jídlo, káva je vedlejší produkt |
 | 2             | Literární kavárna   | Prodejna knih | Spíše ne       | Podle všeho se jedná spíše o prodejnu knih / eshop s knihami | 
 
