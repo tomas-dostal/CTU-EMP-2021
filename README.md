@@ -20,9 +20,16 @@
 2. [Účel, shrnutí](#ucel)
     1. [Aktiální situace na trhu](#situace-na-trhu)
     2. [Poskytované produkty](#produkty)
-
-3. [Another paragraph](#paragraph2)
-
+    3. [Konkurenční výhoda](#konkurencni-vyhoda)
+3. [Popis podnikatelské činnosti](#podnikatelska-cinnost)
+4. [Analýza zákazníků](#analyza-zakazniku)
+5. [Analýza konkurence](#analyza-konkurence)
+    1. [Kampus Dejvice](#lokalita-dejvice)
+    2. [Park Letná](#lokalita-letna)
+6. [Marketingová a obchodní strategie](#marketingova-strategie)
+7. [Realizační projektový plán](#realizacni-projektovy-plan)
+8. [Finanční plán](#financni-plan)
+9. [Předpoklady úspěšnosti, analýza rizik](#swot)
 
 # Úvod <a name="uvod"></a>
 
@@ -50,14 +57,7 @@ V oblasti pohostinství díky/kvůli pandemii COVID-19 skončilo nemalé množst
 ## Jaké produkty budeme poskytovat? <a name="produkty"></a>
 
 Budeme nabízet široké spektrum káv od tradičního espressa přes cappucino až po chuťovky jako alžírská káva připravovaných na místě. Chceme vyhovět co nejvíce zákazníkům, proto budeme nabízet varianty s bezlaktózovým mlékem, sójovým mlékem i bezkofeinové. Abychom zredukovali množství odpadu z jednorázového nádobí, budeme se snažit zákazníky motivovat výraznější slevou, aby si nosili vlastní kelímky, či hrnečky. 
-
-## Jaká je konkurenční výhoda? <a name="konkurencni-vyhoda</a>
-
-Konkurenční výhodou bude kvalita a mobilita prodejny. Budeme se moci přesouvat dle období a případně i dle koncentrace lidí, dovolí-li to možnosti pro místa prodeje. Kromě toho během pandemie COVID-19 zkrachovalo/zavřelo nemalé množství podniků v pohostinství, což po skončení pandemie, nebo alespoň výraznějšímu rozvolnění opatření, otevře možnost novým podnikům, jako bude *kávoval*. Za konkurenční výhodu lze považovat také strategicky vybranou lokaci podniku v závislosti na čase (o tom pozdeji) 
-
-## Jaké produkty budeme poskytovat? <a name="situace-na-trhu"></a>
-
-Myšlěnkou je prodávat kávu v jezdící kavárně. 
+ 
 
 | Produkt | Kávoval cena (Kč) |
 |---------|----------|
@@ -71,6 +71,13 @@ Myšlěnkou je prodávat kávu v jezdící kavárně.
 
 
 
+## Jaká je konkurenční výhoda? <a name="konkurencni-vyhoda"></a>
+
+Konkurenční výhodou bude kvalita a mobilita prodejny. Budeme se moci přesouvat dle období a případně i dle koncentrace lidí, dovolí-li to možnosti pro místa prodeje. Kromě toho během pandemie COVID-19 zkrachovalo/zavřelo nemalé množství podniků v pohostinství, což po skončení pandemie, nebo alespoň výraznějšímu rozvolnění opatření, otevře možnost novým podnikům, jako bude *kávoval*. Za konkurenční výhodu lze považovat také strategicky vybranou lokaci podniku v závislosti na čase (o tom pozdeji) 
+
+
+
+
 # Popis podnikatelské činnosti – volba formy podnikání <a name="podnikatelska-cinnost"></a>
 
 Pro provoz této činnosti bude třeba získat živnostenský list na provozování hostinské činnosti, nebo alespoň sehnat někoho, kdo živnost zaštítí. V tomto bodě spoléhám na známého, který vedl dlouhou dobu hospodu. 
@@ -81,7 +88,7 @@ Pro provoz této činnosti bude třeba získat živnostenský list na provozová
 
 Primárním cílem je nabízet kvalitní kávu za férovou cenu. Cílem nemusí být nutně nějaký velký zisk, postačující bude porkytí nákladů. Myšlenkou je spíše najít práci, která by mne bavila, ikdyby to znamenalo spokojit se s nižším výdělkem. 
 
-# Analýza potenciálních trhů (zákazníků)
+# Analýza potenciálních trhů (zákazníků)  <a name="analyza-zakazniku"></a>
 
 Na základě dotazníkového šetření z [1](https://theses.cz/id/cb9e9q/21354261), kde z 240 respondentů odpovědělo 83 osob (34% z celkového počtu dotázaných), že pijí kávu v kavárnách, či cukrárnách, což není zanedbatelné procento a bude naší cílovou skupinou. Zároveň odsud vyplývá, že přijatelná cena za kávu je pro 93.6% do 50Kč. 
 
@@ -91,12 +98,12 @@ Lidé ve věku do 26 let se mají tendence sdružovat poblíž vzdělávacích i
 
 Po skončení zkouškového období by se pojizdná kavárna přesunula na jiné, třeba i méně frekventované místo. Vhodnými kandidáty jsou například park Stromovka, či Letenské sady, ze kterých je nádherný výhled na Prahu. Možností je mnoho, nicméně v tomto plánu jsem se rozhodl jako druhou možnost stanovat park v Letenských sadech, protože se v něm rád procházím... Nebo jsem se aspoň rád procháhzel, když jsem ještě bydlel v Praze. 
 
-# Analýza konkurence
+# Analýza konkurence  <a name="analyza-konkurence"></a>
 
 Konkurence bude záviset na místě, kde se pohyblivá kavárna zrovna bude nacházet. Naneštěstí současná doba numožňuje detailní analýzu konkurence, jelikož jsou provozovny zavřené, ve většině případů nemají ani webové stránky a když už je mají, tak na nich nápojové lístky buď vůbec nejsou, nebo jsou těžce neaktuální. Při hledání jsem mnohdy narazil na fotky nápojových lístků několik let starých. 
 
 
-# Lokace 1 - Kapmus Dejvice, poblíž NTK 
+# Lokace 1 - Kapmus Dejvice, poblíž NTK  <a name="lokalita-dejvice"></a>
 
 [mapa Dejvice](./img/dejvice_ocislovane.png)
 
@@ -180,7 +187,7 @@ Kromě tohoto jsem se rozhodl srovnat projekt i s obdobným z mého rodného mě
 
 
 
-# Lokace 2 - Park Letná
+# Lokace 2 - Park Letná <a name="lokalita-letna"></a>
 
 Je zde nádherný výhled na Prahu a v nejvližším okolí není výrazná konkurence. Optimální by bylo mít nějaká lehátka a nechat zákazníky si na nich posedět. Je tam nicméně dost laviček. 
 [mapa Dejvice](./img/letna_ocislovane.png)
@@ -205,11 +212,11 @@ Je zde nádherný výhled na Prahu a v nejvližším okolí není výrazná konk
 Patrně se jedná spíše o restauraci, než kavárnu. Jejich nabídka je poměrně slabá a soudě podle stránek je delší dobu neaktualizovaná. 
 
 
-# Marketingová a obchodní strategie (konkurenční výhoda)
+# Marketingová a obchodní strategie (konkurenční výhoda) <a name="marketingova-strategie"></a>
 
 Projekt nenabízí žádné výraznější obchodní výhody. Protože nejde až tak moc o zisk, jako spíše o získání práce, která se dělá rukama. Jak bylo popsáno v analýze konkurence, Kávoval nabízí více méně srovnatelné (a někdy i nižší) ceny  na Pražské poměry. 
 
-# Realizační projektový plán
+# Realizační projektový plán <a name="realizacni-projektovy-plan"></a>
 
 Pro realizaci projektu je třeba pořídit kolo, kávovar a pár dalších věcí. 
 
@@ -249,7 +256,7 @@ Reallizaci projektu plánuji na počátek léta 2022. V případě, že by se si
 Pakliže se v České republice, místě realizace projektu, nezadaři dostat nějak rozumně pod kontrolu nákazu COVID-19 a budou platit restrikce a omezení, nemá smysl investovat do kavárny, která bude právě díky těchto omezení buď úplně zavřená, nebo bude výrazně omezeno množství návštěvníků. V tomto případě se harmonohram z ideální situace odkládá o 1 rok. 
 
 
-# Finanční plán
+# Finanční plán <a name="financni-plan"></a>
 
 Nabízím několik produktů, jejichž ceník je níže. 
 
@@ -285,7 +292,7 @@ V závislosti na tom, který plán bude nejvíce vycházet jsem sestavil plán n
 
 ![Rozklad ceny kávy](src/navratnost_investice.png)
 
-# Předpoklady úspěšnosti, analýza rizik (SWOT analýza)
+# Předpoklady úspěšnosti, analýza rizik (SWOT analýza) <a name="swot"></a>
 
 
 ![SWOT analýza](src/swot.png)
