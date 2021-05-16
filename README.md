@@ -40,9 +40,7 @@ Předmětem podnikatelského plánu bude prodej kávy v pojizdné provozovně. T
 
 # Účel, shrnutí <a name="ucel"></a>
 
-Jedná se o podnikatelský plán pro případné investory. Projekt se nicméně obejde v minimální konfiguraci i bez nich a to za pomoci úvěru. Hned ze začátku tedy existují dva plány: 
-- s přispěním investora, 
-- bez přispění investora 
+Jedná se o podnikatelský plán pro případné investory. Projekt se nicméně obejde v minimální konfiguraci i bez nich a to za pomoci úvěru. Jako reálnější nicméně vidím realizaci za pomoci vlastního počátečního vkladu a krátkodobého úvěru. 
 
 ## Aktuální situace na trhu <a name="situace-na-trhu"></a>
 
@@ -60,6 +58,18 @@ Konkurenční výhodou bude kvalita a mobilita prodejny. Budeme se moci přesouv
 ## Jaké produkty budeme poskytovat? <a name="situace-na-trhu"></a>
 
 Myšlěnkou je prodávat kávu v jezdící kavárně. 
+
+| Produkt | Kávoval cena (Kč) |
+|---------|----------|
+| Espresso | 44,- |
+| Espresso dopio | 54,- | 
+| Cappucino | 59,- | 
+| Café latté  | 59,- | 
+| Flat white | 69,- |
+| Espresso machiato | 54,- |
+| Alžírská káva | 79,- |
+
+
 
 # Popis podnikatelské činnosti – volba formy podnikání <a name="podnikatelska-cinnost"></a>
 
@@ -201,8 +211,55 @@ Projekt nenabízí žádné výraznější obchodní výhody. Protože nejde až
 
 # Realizační projektový plán
 
-Časový harmonogram
+Pro realizaci projektu je třeba pořídit kolo, kávovar a pár dalších věcí. 
+
+
+
+## Tabulka počátečních nákladů
+| Název | Cena (Kč) |
+|----------------|-----------|
+| Trojkolka |	6000 |
+| Nastavba, linka | 	6000 |
+| Kávovar	| 23680 |
+| Baterie	| 10000 | 
+| Invertor	| 4000 |
+| Živnostenský list | 1000 |
+| **Součet**	| **50680**| 
+
+Očekávaná vstupní investice je tedy **50.680,- Kč**, z čehož si plánuji vzít 30.000,- Kč (59%) krátkodobý úvěr. Zbylou částku 20.680,- Kč plánuji pokrýt z vlastních úspor. 
+
+Reallizaci projektu plánuji na počátek léta 2022. V případě, že by se situace ohledně COVID-19 v ČR hodně zlepšila, pak by existovala možnost projekt urychlit a realizovat již během prázdnin 2021. 
+
+## Ideální situace 
+
+| Měsíc | Popis | 
+|--------|----------------------------|
+| 01/2021 | Získání živnostenského listu | 
+| 02/2021 | Web, instagram, facebook projektu, dostávám se do povědomí lidí |
+| 03/2021 | Zakoupení trojkolky a příslušenství, počátek přestavby kola |
+| 04/2021 | Pořízení terminálu, oficiální záležitosti, hygiena atd |
+
+## Méně ideální situace 
+
+Pakliže se v České republice, místě realizace projektu, nezadaři dostat nějak rozumně pod kontrolu nákazu COVID-19 a budou platit restrikce a omezení, nemá smysl investovat do kavárny, která bude právě díky těchto omezení buď úplně zavřená, nebo bude výrazně omezeno množství návštěvníků. V tomto případě se harmonohram z ideální situace odkládá o 1 rok. 
+
+
 # Finanční plán
+
+Nabízím několik produktů, jejichž ceník (který se ještě časem může měnit) je níže. 
+
+| Produkt | Cena s DPH (Kč) | Cena bez DPH (Kč) | Náklady |
+|---------|----------|----------|----------|			
+| Espresso	| 44	| 34.76	 | 13 |
+| Espresso doppio	| 54	| 42.66 | 	21| 
+| Espresso machiato	| 54	| 42.66| 	18| 
+| Cappucino	| 59 |	46.61	| 17 |
+| Flat white |	69	| 54.51	| 25 |
+| Latte	| 59	| 46.61	| 19 |
+| Alžírská káva	| 79	| 62.41 | 	35 |
+
+Mám představu o tom, 
+
 
 
 ## 
