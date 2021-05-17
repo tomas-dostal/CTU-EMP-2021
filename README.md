@@ -216,6 +216,7 @@ Pro realizaci projektu je třeba pořídit kolo, kávovar a pár dalších věc�
 
 
 ## Tabulka počátečních nákladů
+
 | Název | Cena (Kč) |
 |----------------|-----------|
 | Trojkolka |	6000 |
@@ -236,8 +237,12 @@ Reallizaci projektu plánuji na počátek léta 2022. V případě, že by se si
 |--------|----------------------------|
 | 01/2021 | Získání živnostenského listu | 
 | 02/2021 | Web, instagram, facebook projektu, dostávám se do povědomí lidí |
-| 03/2021 | Zakoupení trojkolky a příslušenství, počátek přestavby kola |
+| 03/2021 | Zakoupení trojkolky a příslušenství, kávovaru, počátek přestavby kola |
 | 04/2021 | Pořízení terminálu, oficiální záležitosti, hygiena atd |
+| 05/2021 | Pojizdná kavárna Kávoval se pomalu valí do parku před Dejvickým kampusem |
+| 06/2021 | Prodej poblíž NTK |
+| 07-09/2021 | Prodej v Letenském parku | 
+| 09/2021 | Zakončení sezóny, úvěr splacen |
 
 ## Méně ideální situace 
 
@@ -246,7 +251,7 @@ Pakliže se v České republice, místě realizace projektu, nezadaři dostat n�
 
 # Finanční plán
 
-Nabízím několik produktů, jejichž ceník (který se ještě časem může měnit) je níže. 
+Nabízím několik produktů, jejichž ceník je níže. 
 
 | Produkt | Cena s DPH (Kč) | Cena bez DPH (Kč) | Náklady |
 |---------|----------|----------|----------|			
@@ -258,12 +263,32 @@ Nabízím několik produktů, jejichž ceník (který se ještě časem může m
 | Latte	| 59	| 46.61	| 19 |
 | Alžírská káva	| 79	| 62.41 | 	35 |
 
-Mám představu o tom, 
+Mám tři plány, které se odvíjejí podle množství kávy prodané za den (resp. za hodinu). Ceny a poměry jsem nastavoval tak, aby se počáteční vklad 50.680,- Kč během pvního roku provozu kávovalu vrátil. 
 
+V grafu rozkladu ceny kávy můžete vidět, kolik procent z průměrné kávy jsou náklady, mzda, kolik půjde na splátky úvěru a počátečního vkladu a další dělení. 
 
+![Rozklad ceny kávy](src/rozklad_ceny_kavy.png)
 
-## 
- (odhad budoucích výnosů, nákladů)
+Počítám se třemi plány v závislosti na množství prodaných káv. V mých výpočtech je zohledněna skutečnost, že počasí neporučíme a že půjde v měsíci vyjet zhruba 15krát. 
+
+| Plán | Počet prodaných káv/hod | Počet hodin prodeje | 
+| ---- | ------------------------| --------------------|
+| Maximum | 	25 | 	7  |
+| Optimum |	20 | 7 |
+| Minimum |	15 | 7 |
+
+V závislosti na tom, který plán bude nejvíce vycházet jsem sestavil plán návratnosti investice, kdy se počáteční investice vrátí při
+
+- Maximálním plánu do 3 měsíců
+- Optimálním plánu mezi 3. a 4. měsícem
+- Minimálním plánu během 5ti měsíců
+
+![Rozklad ceny kávy](src/navratnost_investice.png)
+
 # Předpoklady úspěšnosti, analýza rizik (SWOT analýza)
-Přílohy
+
+
+![SWOT analýza](src/swot.png)
+
+
 </main>
