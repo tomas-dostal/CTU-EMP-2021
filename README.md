@@ -69,6 +69,7 @@ Budeme nabízet široké spektrum káv od tradičního espressa přes cappucino 
 | Espresso machiato | 54,- |
 | Alžírská káva | 79,- |
 
+[Cargo coffee](img/cargo-coffee.jpg)
 
 
 ## Jaká je konkurenční výhoda? <a name="konkurencni-vyhoda"></a>
@@ -292,8 +293,30 @@ V závislosti na tom, který plán bude nejvíce vycházet jsem sestavil plán n
 
 ![Rozklad ceny kávy](src/navratnost_investice.png)
 
+Kromě nákladů počátečních se pracuje i s náklady pravidelnými a variabliními. Za pravidelné náklady jsem označil například mzdu pro zaměstnance, či platbu za terminál. 
+
+| Pravidelný náklad | Cena (Kč) |
+|-------------------|-----------|
+| Terminál comgate | 	149  |
+| Elektřina |	500 |
+| Údržba kávovaru |	1000 |
+| Mzda (před odvody, před zdaněním) | 26040 | 
+| Pronájem prodejního místa | 10000 | 
+
+
+| Variabilní náklad | Cena (Kč) |
+|-------------------|-----------|
+| Poplatek temrinál | 	0.99% z transakce  |
+| Káva |	1000/kg |
+| Mléko, smetana a mléčné výrobky |	20/ks |
+
+
+
 # Předpoklady úspěšnosti, analýza rizik (SWOT analýza) <a name="swot"></a>
 
+Předpokladem úspěšnosti je zájem lidí. Pokud se nebudeme těšit zájmu lidí (ať už z jejich vlastní vůle, nebo kvůli regulacím ze strany státu), nemáme příliš velkou šanci na úspěch. 
+
+Jedním ze zásadních předpokladů je, že lidé budou po těch několika měsících vůbec chtít jít ven na kafe, když už mají doma ten nový kávovar. 
 
 ![SWOT analýza](src/swot.png)
 
