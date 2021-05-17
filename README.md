@@ -47,7 +47,9 @@ Předmětem podnikatelského plánu bude prodej kávy v pojizdné provozovně. T
 
 # Účel, shrnutí <a name="ucel"></a>
 
-Jedná se o podnikatelský plán pro případné investory. Projekt se nicméně obejde v minimální konfiguraci i bez nich a to za pomoci úvěru. Jako reálnější nicméně vidím realizaci za pomoci vlastního počátečního vkladu a krátkodobého úvěru. 
+Jedná se o podnikatelský plán pro případné investory. Projekt se nicméně obejde v minimální konfiguraci i bez nich a to za pomoci úvěru. Jako reálnější nicméně vidím realizaci za pomoci vlastního počátečního vkladu a krátkodobého úvěru.
+ 
+![](img/cargo-coffee.jpg)
 
 ## Aktuální situace na trhu <a name="situace-na-trhu"></a>
 
@@ -75,8 +77,6 @@ Budeme nabízet široké spektrum káv od tradičního espressa přes cappucino 
 ## Jaká je konkurenční výhoda? <a name="konkurencni-vyhoda"></a>
 
 Konkurenční výhodou bude kvalita a mobilita prodejny. Budeme se moci přesouvat dle období a případně i dle koncentrace lidí, dovolí-li to možnosti pro místa prodeje. Kromě toho během pandemie COVID-19 zkrachovalo/zavřelo nemalé množství podniků v pohostinství, což po skončení pandemie, nebo alespoň výraznějšímu rozvolnění opatření, otevře možnost novým podnikům, jako bude *kávoval*. Za konkurenční výhodu lze považovat také strategicky vybranou lokaci podniku v závislosti na čase (o tom pozdeji) 
-
-
 
 
 # Popis podnikatelské činnosti – volba formy podnikání <a name="podnikatelska-cinnost"></a>
@@ -312,7 +312,7 @@ Kromě nákladů počátečních se pracuje i s náklady pravidelnými a variabl
 
 
 
-# Předpoklady úspěšnosti, analýza rizik (SWOT analýza) <a name="swot"></a>
+# Předpoklady úspěšnosti, analýza rizik (SWOT analýza) <a name="swot"></a>S
 
 Předpokladem úspěšnosti je zájem lidí. Pokud se nebudeme těšit zájmu lidí (ať už z jejich vlastní vůle, nebo kvůli regulacím ze strany státu), nemáme příliš velkou šanci na úspěch. 
 
