@@ -1,6 +1,5 @@
 
-Dobrý den, mé jméno je Tomáš Dostál a v následujících 7mi mintách bych vám chtěl popovídat něco málo o podnikatelském plánu Kávoval a proč si myslím, že dobré kafe může po
-
+Dobrý den, mé jméno je Tomáš Dostál a v následujících 7mi mintách bych vám chtěl popovídat něco málo o podnikatelském plánu Kávoval.
 Dnešní prezentace bude mít pět části
 
 - první úvodní právě probíhá. 
